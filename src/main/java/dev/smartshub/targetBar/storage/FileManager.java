@@ -14,7 +14,6 @@ public class FileManager {
     public static void init(TargetBar pluginInstance) {
         plugin = pluginInstance;
         load("config");
-        load("lang");
     }
 
     private static void load(String name) {

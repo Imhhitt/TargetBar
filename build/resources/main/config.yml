@@ -1,0 +1,15 @@
+# The plugin ins based in groups. Allowing you to set different values for each group.
+# You can add as many groups as you want, just copy the group section and change the name.
+# Available bar-colors: red, blue, pink, purple, green, yellow, white
+# Duration is in seconds!
+groups:
+  default:
+    title: "<white>%hearths% <red>❤️"
+    bar-color: "pink"
+    duration: 5
+    show-permission: "hearths.default.show"
+  vip:
+    title: "<white>%hearths% <red>❤️"
+    bar-color: "blue"
+    duration: 10
+    show-permission: "hearths.vip.show"
