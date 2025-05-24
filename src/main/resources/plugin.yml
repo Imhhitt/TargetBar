@@ -1,0 +1,5 @@
+name: TargetBar
+version: '1.0.0-SNAPSHOT'
+main: dev.smartshub.targetBar.TargetBar
+api-version: '1.21'
+authors: [ hhitt ]
